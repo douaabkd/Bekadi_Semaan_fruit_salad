@@ -1,0 +1,10 @@
+/* Applique une bordure arrondie à tous les éléments <div> dans le conteneur .FruitsMaster */
+.FruitsMaster div {
+    border-radius: 1em;
+}
+/* Applique une bordure arrondie, une bordure grise claire de 2px, et un espacement interne de 0.5em aux éléments <div> ayant à la fois les classes .FruitsMaster et .FruitsContainer */
+.FruitsMaster div.FruitsContainer {
+    border-radius: 1em;
+    border: 2px solid lightgray;
+    padding: 0.5em;
+}

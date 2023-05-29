@@ -1,0 +1,6 @@
+/* ajout d'un espace vide de 2X la taille de la 
+police */
+
+body {
+    padding: 2em;
+}

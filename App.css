@@ -1,0 +1,6 @@
+body {
+    margin: 0; 
+    padding: 0;
+}
+/* margin = on défini la marge ext a 0 = supp toute marge autour du contenu de la page
+ padding = Définit le rembourrage intérieur à 0 = supp tout espace vide à l'intérieur de l'élément.  */
